@@ -1,7 +1,3 @@
-//© A+ Computer Science  -  www.apluscompsci.com
-//Name -
-//Date -
-//Lab  -
 
 import java.util.Map;
 import java.util.TreeMap;
