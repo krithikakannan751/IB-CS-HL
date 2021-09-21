@@ -1,0 +1,3 @@
+Read in a list of words, a word to replace, and a word with which to replace the original word.  
+Replace all occurrences of the original word with the new word. 
+Used a ListIterator.
