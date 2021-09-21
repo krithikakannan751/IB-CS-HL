@@ -1,0 +1,2 @@
+Implemented a program that manipulates a database of product records.  
+Records are stored in a binary file.  Each record consists of these items:
