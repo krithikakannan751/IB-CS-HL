@@ -1,7 +1,3 @@
-//© A+ Computer Science  -  www.apluscompsci.com
-//Name -
-//Date -
-//Lab  - 
 
 import static java.lang.System.*;
 
