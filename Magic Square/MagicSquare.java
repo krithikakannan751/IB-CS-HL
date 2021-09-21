@@ -1,5 +1,4 @@
 // The Magic Square
-// Student Version
 
 /*
  * The MagicSquare class creates odd-sized magic squares.  
