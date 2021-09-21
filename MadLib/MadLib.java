@@ -1,4 +1,3 @@
-//© A+ Computer Science  -  www.apluscompsci.com
 //Name - Krithika Kannan
 //Date - 8/20/18
 //Lab  - MadLib
